@@ -8,7 +8,7 @@ Make sure to install dependencies:
 
 ```bash
 # npm
-npm install
+npm install / npm install -g pnpm(pake ini biar global)
 
 # pnpm
 pnpm install
@@ -29,7 +29,7 @@ Start the development server on `http://localhost:3000`:
 npm run dev
 
 # pnpm
-npx pnpm dev (running project)
+pnpm dev (running project)
 
 # yarn
 yarn dev

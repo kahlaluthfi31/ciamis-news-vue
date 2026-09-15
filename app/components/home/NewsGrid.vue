@@ -43,7 +43,7 @@
                                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
                                     d="M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z" />
                             </svg>
-                            24 Okt 2024
+                            1 Sep 2026
                         </span>
                         <span>•</span>
                         <span class="flex items-center gap-1">
@@ -88,7 +88,7 @@
                                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
                                     d="M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z" />
                             </svg>
-                            24 Okt 2024
+                            2 Sep 2026
                         </span>
                         <span>•</span>
                         <span class="flex items-center gap-1">
@@ -133,7 +133,7 @@
                                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
                                     d="M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z" />
                             </svg>
-                            23 Okt 2024
+                            3 Sep 2026
                         </span>
                         <span>•</span>
                         <span class="flex items-center gap-1">
@@ -178,7 +178,7 @@
                                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
                                     d="M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z" />
                             </svg>
-                            23 Okt 2024
+                            4 Sep 2026
                         </span>
                         <span>•</span>
                         <span class="flex items-center gap-1">
@@ -223,7 +223,7 @@
                                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
                                     d="M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z" />
                             </svg>
-                            22 Okt 2024
+                            5 Sep 2026
                         </span>
                         <span>•</span>
                         <span class="flex items-center gap-1">
@@ -268,7 +268,7 @@
                                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
                                     d="M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z" />
                             </svg>
-                            22 Okt 2024
+                            6 Sep 2026
                         </span>
                         <span>•</span>
                         <span class="flex items-center gap-1">

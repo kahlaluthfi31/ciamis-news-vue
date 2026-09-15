@@ -57,7 +57,7 @@
                                 <span class="text-gray-500 font-normal">Editor: Kang Asep Saepudin</span>
                             </div>
                             <div class="text-gray-400 text-[11px] mt-0.5">
-                                Kamis, 24 Oktober 2024 • 08:15 WIB
+                                Rabu, 29 Juli 2026 • 08:15 WIB
                             </div>
                         </div>
                     </div>
@@ -111,7 +111,7 @@
                         <span class="text-emerald-600 font-bold">PEMBERITAAN TERVERIFIKASI</span>
                         <span>— Mentaati Pedoman Pemberitaan Media Siber & Kode Etik Jurnalistik PWI/Dewan Pers</span>
                     </div>
-                    <div class="text-gray-400">ID: 46211/DP/2024</div>
+                    <div class="text-gray-400">ID: 46211/DP/2026</div>
                 </div>
 
                 <!-- Tombol Bagikan -->
@@ -168,7 +168,7 @@
                         <strong class="font-sans font-bold text-gray-700">Sentral Kemegahan Tatar Galuh:</strong>
                         Suasana peresmian wajah baru kawasan sentral Alun-Alun Ciamis dan Masjid Agung yang dipadati
                         ribuan warga, komunitas pemuda, serta ratusan pelaku UMKM pada hari pembukaan resmi, Kamis
-                        (24/10/2024). Foto: Diskominfo Ciamis / Hendra W.
+                        (24/10/2026). Foto: Diskominfo Ciamis / Hendra W.
                     </figcaption>
                 </figure>
 
@@ -212,7 +212,7 @@
                             </div>
                             <div>
                                 <div class="font-sans font-bold text-xs text-gray-900">Dr. H. Herdiat Sunarya</div>
-                                <div class="font-sans text-[10px] text-gray-500">Bupati Ciamis Periode 2019-2024</div>
+                                <div class="font-sans text-[10px] text-gray-500">Bupati Ciamis Periode 2019-2026</div>
                             </div>
                         </div>
                     </blockquote>
@@ -243,7 +243,7 @@
                                 <span
                                     class="text-[10px] font-bold text-[#A72185] uppercase tracking-wider block">RINGKASAN
                                     DATA & PEMBANGUNAN</span>
-                                <h3 class="text-sm font-bold text-gray-900">Metrik Proyek Revitalisasi Alun-Alun 2024
+                                <h3 class="text-sm font-bold text-gray-900">Metrik Proyek Revitalisasi Alun-Alun 2026
                                 </h3>
                             </div>
                         </div>
@@ -394,7 +394,7 @@
                                     class="w-full h-full object-cover" alt="Kuliner Ciamis" />
                             </div>
                             <div class="p-3 space-y-1.5">
-                                <div class="text-[10px] text-gray-400">23 Okt 2024 • 1.410x dibaca</div>
+                                <div class="text-[10px] text-gray-400">23 Okt 2026 • 1.410x dibaca</div>
                                 <h4
                                     class="text-xs font-bold text-gray-900 line-clamp-2 hover:text-[#A72185] cursor-pointer">
                                     Penataan Sentra Kuliner Galendo Khas Ciamis Siap Masuk Etalase Digital Nasional
@@ -417,7 +417,7 @@
                                     class="w-full h-full object-cover" alt="Budaya Ciamis" />
                             </div>
                             <div class="p-3 space-y-1.5">
-                                <div class="text-[10px] text-gray-400">22 Okt 2024 • 2.980x dibaca</div>
+                                <div class="text-[10px] text-gray-400">22 Okt 2026 • 2.980x dibaca</div>
                                 <h4
                                     class="text-xs font-bold text-gray-900 line-clamp-2 hover:text-[#A72185] cursor-pointer">
                                     Jadwal Rangkaian Parade Seni Musik Bambu Akhir Pekan di Taman Lokasana Ciamis
@@ -439,7 +439,7 @@
                                     class="w-full h-full object-cover" alt="Bus Listrik" />
                             </div>
                             <div class="p-3 space-y-1.5">
-                                <div class="text-[10px] text-gray-400">20 Okt 2024 • 3.204x dibaca</div>
+                                <div class="text-[10px] text-gray-400">20 Okt 2026 • 3.204x dibaca</div>
                                 <h4
                                     class="text-xs font-bold text-gray-900 line-clamp-2 hover:text-[#A72185] cursor-pointer">
                                     Pemkab Ciamis Uji Coba Shuttle Bus Listrik Keliling Kawasan Pusat Pemerintahan
@@ -462,7 +462,7 @@
                                     class="w-full h-full object-cover" alt="Masjid Agung" />
                             </div>
                             <div class="p-3 space-y-1.5">
-                                <div class="text-[10px] text-gray-400">19 Okt 2024 • 4.110x dibaca</div>
+                                <div class="text-[10px] text-gray-400">19 Okt 2026 • 4.110x dibaca</div>
                                 <h4
                                     class="text-xs font-bold text-gray-900 line-clamp-2 hover:text-[#A72185] cursor-pointer">
                                     Eksplorasi Wisata Religi Masjid Agung Ciamis: Jejak Syiar Islam Abad ke-19 di Tatar

@@ -6,7 +6,7 @@
             <!-- Detail Teks -->
             <div class="min-w-0">
                 <h3 class="font-bold text-gray-900 text-sm leading-snug">
-                    Kanal Transparansi & Data Statistik Ciamis 2024
+                    Kanal Transparansi & Data Statistik Ciamis 2026
                 </h3>
                 <p class="text-xs text-gray-500 font-normal truncate mt-0.5">
                     Pantau capaian inflasi daerah, realisasi APBD Kab. Ciamis, dan indeks pelayanan kepuasan publik

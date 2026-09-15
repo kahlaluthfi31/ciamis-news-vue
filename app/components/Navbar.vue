@@ -27,7 +27,7 @@
                             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
                                 d="M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z" />
                         </svg>
-                        <span class="uppercase tracking-wide font-medium text-gray-700">SENIN, 24 OKTOBER 2024</span>
+                        <span class="uppercase tracking-wide font-medium text-gray-700">JUMAT, 04 September 2026</span>
                     </div>
 
                     <span class="text-gray-200 hidden sm:inline">|</span>
@@ -85,7 +85,7 @@
                 <div class="md:col-span-2 w-full">
                     <div
                         class="flex items-center bg-gray-50 border border-gray-200 rounded-lg overflow-hidden focus-within:border-[#A72185] transition">
-                        <svg class="w-4 h-4 text-gray-400 ml-3 flex-shrink-0" fill="none" stroke="currentColor"
+                        <svg class="w-4 h-4 text-gray-400 ml-3 shrink-0" fill="none" stroke="currentColor"
                             viewBox="0 0 24 24">
                             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
                                 d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
@@ -93,25 +93,36 @@
                         <input type="text" placeholder="Cari arsip berita, regulasi pemkab, agenda daerah..."
                             class="w-full px-2.5 py-2 text-xs bg-transparent text-gray-800 placeholder-gray-400 focus:outline-none" />
                         <button
-                            class="px-4 py-2 text-xs font-semibold text-[#A72185] hover:bg-gray-100 transition flex-shrink-0">
+                            class="px-4 py-2 text-xs font-semibold text-[#A72185] hover:bg-gray-100 transition shrink-0">
                             CARI
                         </button>
                     </div>
                 </div>
 
-                <!-- Sekilas Info Ticker (Porsi 1/3 dengan Truncate) -->
+                <!-- Sekilas Info Ticker (Teks Berjalan) -->
                 <div class="md:col-span-1 w-full flex justify-end min-w-0">
                     <div
-                        class="w-full bg-[#A72185]/10 text-[#A72185] px-3.5 py-2 rounded-lg flex items-center gap-2 text-xs font-semibold overflow-hidden">
-                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24">
-                            <path d="M0 0h24v24H0z" fill="none" />
-                            <path fill="#a72185"
-                                d="M18 7V3c0-.35-.19-.68-.49-.86a1 1 0 0 0-.99-.01L7.74 7H4c-1.1 0-2 .9-2 2v5c0 1.1.9 2 2 2h3v6h2v-5.46l7.59 3.37c.13.06.27.09.41.09a1.01 1.01 0 0 0 1-1v-4c2.21 0 4-1.79 4-4s-1.79-4-4-4M4 14V9h3v5zm12 3.46l-7-3.11V8.59l7-3.89zM18 13V9c1.1 0 2 .9 2 2s-.9 2-2 2" />
-                        </svg>
-                        <span class="truncate min-w-0">
-                            <span class="font-bold">SEKILAS INFO:</span> Festival Seni Budaya Galuh Resmi Dibuka di
-                            Situs Astana Gede
-                        </span>
+                        class="w-full bg-[#A72185]/10 text-[#A72185] px-3 py-2 rounded-lg flex items-center gap-2 text-xs font-semibold overflow-hidden">
+
+                        <!-- Badge Icon Fixed -->
+                        <div
+                            class="flex items-center gap-1 shrink-0 bg-[#A72185] text-white px-2 py-0.5 rounded text-[10px] font-bold z-10 shadow-xs">
+                            <svg class="w-3 h-3 shrink-0 fill-current" viewBox="0 0 24 24">
+                                <path
+                                    d="M18 7V3c0-.35-.19-.68-.49-.86a1 1 0 0 0-.99-.01L7.74 7H4c-1.1 0-2 .9-2 2v5c0 1.1.9 2 2 2h3v6h2v-5.46l7.59 3.37c.13.06.27.09.41.09a1.01 1.01 0 0 0 1-1v-4c2.21 0 4-1.79 4-4s-1.79-4-4-4M4 14V9h3v5zm12 3.46l-7-3.11V8.59l7-3.89zM18 13V9c1.1 0 2 .9 2 2s-.9 2-2 2" />
+                            </svg>
+                            <span class="whitespace-nowrap">INFO</span>
+                        </div>
+
+                        <!-- Container Teks Berjalan -->
+                        <div class="relative overflow-hidden w-full flex items-center">
+                            <div
+                                class="flex animate-marquee whitespace-nowrap hover:[animation-play-state:paused] cursor-pointer">
+                                <span class="pr-8">Festival Seni Budaya Galuh Resmi Dibuka di Situs Astana Gede</span>
+                                <span class="pr-8">Festival Seni Budaya Galuh Resmi Dibuka di Situs Astana Gede</span>
+                            </div>
+                        </div>
+
                     </div>
                 </div>
 
@@ -126,22 +137,37 @@
                 <NuxtLink to="/" class="py-3 text-[#A72185] border-b-2 border-[#A72185] whitespace-nowrap transition">
                     Berita Utama
                 </NuxtLink>
-                <NuxtLink to="/pemerintahan" class="py-3 hover:text-[#A72185] whitespace-nowrap transition">
+                <NuxtLink to="/kategori/pemerintahan" class="py-3 hover:text-[#A72185] whitespace-nowrap transition">
                     Pemerintahan
                 </NuxtLink>
-                <NuxtLink to="/ekonomi" class="py-3 hover:text-[#A72185] whitespace-nowrap transition">
+                <NuxtLink to="/kategori/ekonomi" class="py-3 hover:text-[#A72185] whitespace-nowrap transition">
                     Ekonomi
                 </NuxtLink>
-                <NuxtLink to="/tatar-galuh" class="py-3 hover:text-[#A72185] whitespace-nowrap transition">
+                <NuxtLink to="/kategori/tatar-galuh" class="py-3 hover:text-[#A72185] whitespace-nowrap transition">
                     Tatar Galuh / Budaya
                 </NuxtLink>
-                <NuxtLink to="/pendidikan" class="py-3 hover:text-[#A72185] whitespace-nowrap transition">
+                <NuxtLink to="/kategori/pendidikan" class="py-3 hover:text-[#A72185] whitespace-nowrap transition">
                     Pendidikan & Olahraga
                 </NuxtLink>
-                <NuxtLink to="/wisata" class="py-3 hover:text-[#A72185] whitespace-nowrap transition">
+                <NuxtLink to="/kategori/wisata" class="py-3 hover:text-[#A72185] whitespace-nowrap transition">
                     Wisata & Kuliner
                 </NuxtLink>
             </nav>
         </div>
     </header>
 </template>
+
+<style scoped>
+@keyframes marquee {
+    0% {
+        transform: translateX(0);
+    }
+    100% {
+        transform: translateX(-50%);
+    }
+}
+
+.animate-marquee {
+    animation: marquee 15s linear infinite;
+}
+</style>
